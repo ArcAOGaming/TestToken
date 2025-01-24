@@ -23,7 +23,7 @@ local bint = require('.bint')(256)
         them the Processes' balance
 ]]
 --
-local json = require('json')
+local json = require('JSON')
 
 --[[
   utils helper functions to remove the bint complexity.
